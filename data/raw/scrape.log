@@ -1,0 +1,9 @@
+2025-06-29 11:48:58,280 INFO Fetching category page: https://www.etrailer.com/Trailer-Brakes.html
+2025-06-29 11:49:47,129 INFO Fetching category page: https://www.etrailer.com/Trailer-Brakes
+2025-06-29 11:53:46,954 INFO Fetching category page: https://www.etrailer.com/Trailer-Brakes.html
+2025-06-29 11:53:47,139 CRITICAL Scrape failed: 403 Client Error: Forbidden for url: https://www.etrailer.com/Trailer-Brakes.html
+2025-06-29 11:56:03,068 INFO Fetching category page: https://www.etrailer.com/Trailer-Brakes.html
+2025-06-29 11:56:03,539 CRITICAL Scrape failed: 404 Client Error: Not Found for url: https://www.etrailer.com/Trailer-Brakes.html
+2025-06-29 11:57:06,152 INFO Fetching category page: https://www.etrailer.com/Trailer-Brakes/
+2025-06-29 11:57:06,809 INFO Found 0 product blocks
+2025-06-29 11:57:06,813 INFO Scrape complete: 0 products saved
