@@ -228,14 +228,6 @@ streamlit run Home.py --server.port 8502
 - **UI/UX Design**: Custom Streamlit interface
 - **Data Processing**: Custom scraping and processing logic
 
-## 📞 Contact Information
-
-For technical support or questions:
-- **Developer**: Harshita R
-- **Email**: harshitaravikumar1905@gmail.com
-- **Project Repository**: https://github.com/harshi1905/smart_part_finder.git
-
-
 ### Test Data
 -Hydraulic Trailer Shock Absorber 5612
 -Heavy Duty Trailer Spring Hanger
